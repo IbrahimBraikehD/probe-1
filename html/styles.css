@@ -1,0 +1,56 @@
+.img{
+ 
+    display: flex;
+    justify-content: space-around;
+  
+}
+
+
+.text-center{
+    text-align: center;
+}
+
+body{
+    margin: 30px;   
+    background: lightblue;
+}
+.first{
+    width: 300px;
+    margin: 30px auto;
+    color: rgb(255, 6, 6);
+    text-shadow: 2px 0px  rgb(156, 0, 0);
+    font-size: 50px;
+    padding: 30px;
+    background-color: rgb(198, 198, 174);
+    border: 5px solid red;
+    border-radius: 10px;
+
+}
+.second{
+    color: lightblue;
+   
+    width: 500px;
+    margin: 30px auto;
+    text-shadow: 1px 0px black;
+    font-size: 30px;
+    padding: 20px;
+    background-color: lightcoral;
+    border: 10px dotted rgb(0, 0, 0);
+}
+
+.third{
+    width: 300px;
+    color: rgb(250, 5, 164);
+    padding: 30px 20px 30px 50px;
+    background-color: aqua;
+    margin: 0px auto;
+    font-size: 40px;
+}
+
+.heart1{
+    margin: 30px 0px;
+}
+.heart2{
+    margin-right: 20px;
+    margin-left: 150px;
+}
